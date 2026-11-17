@@ -2,5 +2,4 @@
 title: Welcome to my blog!
 ---
 
-game:
-https://github.com/wujon37cc/default-workspace/blob/master/tower-defense/tower-defense.html
+<a href="https://your-username.github.io/game-repo-name/">Play the Game</a>   
